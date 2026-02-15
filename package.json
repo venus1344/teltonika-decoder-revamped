@@ -1,0 +1,23 @@
+{
+  "name": "teltonika-decoder",
+  "version": "1.0.0",
+  "description": "Teltonika Codec8/8E TCP decoder with OsmAnd mapping API integration",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "teltonika",
+    "gps",
+    "tracker",
+    "codec8",
+    "avl"
+  ],
+  "author": "Daniel E. Bwere",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
