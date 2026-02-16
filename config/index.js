@@ -21,7 +21,7 @@ module.exports = {
         68: "batteryCurrent",
         69: "gnssStatus",
         70: "movement",
-        78: "ibutton",
+        78: "io78",
         80: "dataMode",
         181: "gnssPdop",
         182: "gnssHdop",
